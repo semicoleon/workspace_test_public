@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "console_test",
+    "simple_rust_lib",
+    "link_to_c"
+]
+
